@@ -1,0 +1,26 @@
+{
+    "IIT_Guwahati-Virtual_English_and_Communication_Lab.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "HSS02", 
+            "name": "IIT_Guwahati-Virtual_English_and_Communication_Lab.jpg", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "IIT Guwahati-Virtual English and Communication Lab.jpg", 
+        "filename": "asset-v1:IIT-Guwahati+HSS02+Anytime+type@asset+block@IIT_Guwahati-Virtual_English_and_Communication_Lab.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIT-Guwahati", 
+            "HSS02", 
+            "thumbnail", 
+            "IIT_Guwahati-Virtual_English_and_Communication_Lab.jpg", 
+            null
+        ]
+    }
+}
